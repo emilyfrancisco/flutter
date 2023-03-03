@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+void main(){
+
+     runApp(MaterialApp(
+      
+      title: " Estrutura Principal Flutter", 
+        home:Row(children: <Widget>[
+      Text( 'Flutter'),
+      Text(' 2DS SEXTA FEIRA NO MOBILE')
+
+      ],),
+       
+      ));
+
+      
+     
+
+
+}
+//Column no lugar de Row para deixar em colunas
